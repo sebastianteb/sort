@@ -1,0 +1,14 @@
+C:\Users\seba\source\repos\sortowanie\sortowanie\bin\Debug\net8.0\sortowanie.exe
+C:\Users\seba\source\repos\sortowanie\sortowanie\bin\Debug\net8.0\sortowanie.deps.json
+C:\Users\seba\source\repos\sortowanie\sortowanie\bin\Debug\net8.0\sortowanie.runtimeconfig.json
+C:\Users\seba\source\repos\sortowanie\sortowanie\bin\Debug\net8.0\sortowanie.dll
+C:\Users\seba\source\repos\sortowanie\sortowanie\bin\Debug\net8.0\sortowanie.pdb
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\sortowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\sortowanie.AssemblyInfoInputs.cache
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\sortowanie.AssemblyInfo.cs
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\sortowanie.dll
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\refint\sortowanie.dll
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\sortowanie.pdb
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\sortowanie.genruntimeconfig.cache
+C:\Users\seba\source\repos\sortowanie\sortowanie\obj\Debug\net8.0\ref\sortowanie.dll
